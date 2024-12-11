@@ -76,7 +76,7 @@ const hobbies = [
     top: "65%",
   },
   {
-    title: 'Ejoying Film & Movies',
+    title: 'Ejoying Films and  Movies',
     emoji:'🎥',
     left:"-35%",
     top: "75%",
@@ -189,7 +189,7 @@ export const AboutSection = () => {
 
           <div className="inline-flex items-center gap-2 ml-5 md:-ml-1 lg:ml-5">
           <StarIcon className="size-9 text-teal-200/70 animate-pulse [animation-duration:2s]"/>
-          <h3  className="font-serif text-nowrap text-3xl  md:text-2xl lg:text-3xl lg:tracking-wide">Let's Connect </h3>
+          <h3  className="font-serif text-nowrap text-3xl  md:text-2xl lg:text-3xl lg:tracking-wide">Let&apos;s Connect </h3>
           </div>
 
           <Image 

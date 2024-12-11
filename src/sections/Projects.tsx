@@ -17,7 +17,7 @@ const portfolioProjects = [
     results: [
       { title: "HTML,CSS,JS" },
       { title: "Image Slider, Reponsive Design" },
-      { title: "Contact Form, Light & Dark Mode" },
+      { title: "Contact Form, Light and Dark Mode" },
     ],
     link: "https://tuscantableristorante.com/",
     image: tuscanTableMock,
@@ -28,7 +28,7 @@ const portfolioProjects = [
     title: "E-commerce site",
     results: [
       { title: "HTML,CSS,JS" },
-      { title: "Flex & Grid, BEM Model" },
+      { title: "Flex and Grid, BEM Model" },
       { title: "Clean Modern Design" },
     ],
     link: "https://ar20-4.github.io/Blackbird/",
@@ -41,7 +41,7 @@ const portfolioProjects = [
     results: [
       { title: "HTML,CSS,JS" },
       { title: "Accordion, Image Slider" },
-      { title: "Light & Dark Model" },
+      { title: "Light and Dark Model" },
     ],
     link: "https://ar20-4.github.io/Real-estate-site/",
     image: realestateMock,
@@ -52,7 +52,7 @@ const portfolioProjects = [
     title: "Yoga Studio",
     results: [
       { title: "HTML,CSS,JS" },
-      { title: "Light & Dark Mode, Accordion FAQ" },
+      { title: "Light and Dark Mode, Accordion FAQ" },
       { title: "Responsive, Smooth Scroll Action" },
     ],
     link: "https://ar20-4.github.io/OmYoga/",
