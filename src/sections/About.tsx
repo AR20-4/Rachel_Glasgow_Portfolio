@@ -76,13 +76,13 @@ const hobbies = [
     top: "65%",
   },
   {
-    title: 'Ejoying Films and  Movies',
+    title: 'Enjoying Films and  Movies',
     emoji:'🎥',
     left:"-35%",
     top: "75%",
   },
   {
-    title: 'Consantly Learning',
+    title: 'Constantly Learning',
     emoji:'📚',
     left:"30%",
     top: "90%",
