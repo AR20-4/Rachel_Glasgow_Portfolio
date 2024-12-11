@@ -83,7 +83,7 @@ export const HeroSection = () => {
       </div>
 
 <div className="max-w-lg mx-auto">
-      <h1 className="font-serif text-xl tracking-wider  text-center mt-2 max-w-md mx-auto">👋🏻 Hello! I'm a passionate full-stack web developer who specializes in transforming complex code into sleek, user-friendly websites. </h1>
+      <h1 className="font-serif text-xl tracking-wider  text-center mt-2 max-w-md mx-auto">👋🏻 Hello! I&apos;m a passionate full-stack web developer who specializes in transforming complex code into sleek, user-friendly websites. </h1>
       <p className="mt-1 text-justify font-sm tracking-wider  text-white/70 max-w-md mx-auto font-semibold">
       I thrive at the intersection of digital design and development. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences to drive engagement. 
       </p>

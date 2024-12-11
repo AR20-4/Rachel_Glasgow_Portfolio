@@ -130,7 +130,7 @@ export const AboutSection = () => {
             className="z-20  p-4 rounded-3xl md:size-3/4 lg:ml-1  lg:mt-2  lg:size-full lg:h-[300px]"
             alt="Photo of Rachel who is for hire, for all your web dev needs" />
        <div className="h-40 overflow-scroll lg:h-[340px] lg:-mt-8">
-          <p className="text-sm text-white/70 text-left tracking-wider font-semibold ml-4 mr-1 lg:ml-6 "> <span >Hi there! I’m a committed front-end web developer with a knack for transforming code into visually captivating and highly functional websites.</span>
+          <p className="text-sm text-white/70 text-left tracking-wider font-semibold ml-4 mr-1 lg:ml-6 "> <span >Hi there! I&apos;m a committed front-end web developer with a knack for transforming code into visually captivating and highly functional websites.</span>
           <br></br> <br></br>
           <span>My focus is on crafting seamless, interactive experiences that captivate visitors and foster meaningful engagement. I prioritize close collaboration with clients to deeply understand the essence of their brand. This insight enables me to design tailored solutions that resonate with their target audience, ultimately driving customer loyalty.</span></p>
         </div>

@@ -8,9 +8,9 @@ export const ContactSection = () => {
       <div className="bg-gradient-to-r from-rose-300/70 to-violet-200/70  text-whtie/80 py-8 px-10 rounded-3xl text-center">
    <div className="flex flex-col md:flex-row md:gap-8 items-center">
     <div>
-    <h2 className="font-serif text-2xl tracking-wide">Let's Create Something Magical Together?</h2>
+    <h2 className="font-serif text-2xl tracking-wide">Let&apos;s Create Something Magical Together?</h2>
     <p className="text-sm mt-2">
-     Ready to bring your next project to life? Let's connect and brainstorm how I can help you achieve your goals.
+     Ready to bring your next project to life? Let&apos;s connect and brainstorm how I can help you achieve your goals.
     </p>
     </div>
 
