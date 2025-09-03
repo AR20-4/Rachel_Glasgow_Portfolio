@@ -19,7 +19,7 @@ const portfolioProjects = [
       { title: "Image Slider, Reponsive Design" },
       { title: "Contact Form, Light and Dark Mode" },
     ],
-    link: "https://tuscantableristorante.com/",
+    link: "https://ar20-4.github.io/Updated-tuscan-table/",
     image: tuscanTableMock,
   },
   {
